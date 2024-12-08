@@ -78,5 +78,7 @@ export default {
   		}
   	}
   },
-	plugins: tailwindAnimate
+	plugins: [
+		tailwindAnimate,
+	],
 }
