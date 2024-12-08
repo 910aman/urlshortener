@@ -1,5 +1,5 @@
 /* eslint-disable no-undef */
-/** @type {import('tailwindcss').Config} */
+{ import('tailwindcss').Config }
 export default {
     darkMode: ["class"],
     content: [
